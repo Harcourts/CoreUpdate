@@ -22,4 +22,4 @@ rather than using the slow and cumbersome nuget package manager and/or command l
 
 Download the executable without pulling the repository and building the executable:
 
-[CoreUpdate.exe](https://github.com/Harcourts/CoreUpdate/blob/master/Download/CoreUpdate.exe)
+[CoreUpdate.exe](https://github.com/Harcourts/CoreUpdate/blob/master/Download/CoreUpdate.exe?raw=true)
