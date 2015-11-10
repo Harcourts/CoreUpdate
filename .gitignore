@@ -1,0 +1,22 @@
+# ignore all binaries and artifacts.
+*.dll
+*.exe
+[Bb]in/
+[Oo]bj/
+
+# include downloadable executable.
+# The executable is copied to the Download folder as a post build event.
+!Download/*.exe
+
+# no user-specific solution files
+*.user
+*.suo
+
+# Ignore the sln.ide folder.
+*.sln.ide
+
+# .vs - auto generated visual studio files.
+.vs/
+
+# .tmp folder should be ignored
+.tmp/
